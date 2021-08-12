@@ -1,0 +1,44 @@
+1. Introduction
+	1.1 Welcome! NLP introduction & course overview
+	1.2 Course curriculum, Colab toolkit and data links
+	1.3 BONUS: Learning Path
+	1.4 Get the materials
+2. CNN for NLP - Intuition
+	2.1 Introduction
+	2.2 Basic CNN
+	2.3 Image to text
+	2.4 Image for word embedding from the session 7
+	2.5 CNN for NLP
+3. CNN for NLP - Application (sentimental analysis)
+	3.1 Introduction
+	3.2 Dependencies
+	3.3 Loading Files
+	3.4 Cleaning
+	3.5 Inputs creation
+	3.6 Model
+	3.7 Configuration
+	3.8 Training
+	3.9 Evaluation
+4. Transformer - Intuition
+	4.1 Introduction
+	4.2 Old fashioned
+	4.3 General understanding
+	4.4 Attention
+	4.5 Positional encoding
+	4.6 Last details
+5. Transformer - Application
+	5.1 Introduction
+	5.2 Dependencies
+	5.3 Loading Files
+	5.4 Cleaning
+	5.5 Tokenizing
+	5.6 Max Length
+	5.7 Inputs Creation
+	5.8 Positional encoding
+	5.9 Scaled dot product attention
+	5.10 Multi head attention
+	5.11 Encoder
+	5.12 Decoder
+	5.13 Transformer
+	5.14 Training
+	5.15 Evaluation

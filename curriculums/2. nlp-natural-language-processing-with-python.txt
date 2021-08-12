@@ -1,0 +1,90 @@
+1. Introduction
+	1.1 Course Overview - DO NOT SKIP THIS LECTURE PLEASE. IMPORTANT INFO HERE!
+	1.2 Quick Check
+	1.3 Curriculum Overview
+	1.4 Installation and Setup Lecture
+	1.5 FAQ - Frequently Asked Questions
+2. Python Text Basics
+	2.1 Introduction to Python Text Basics
+	2.2 Working with Text Files with Python - Part One
+	2.3 Working with Text Files with Python - Part Two
+	2.4 Working with PDFs
+	2.5 Regular Expressions Part One
+	2.6 Regular Expressions Part Two
+	2.7 Python Text Basics - Assessment Overview
+	2.8 Python Text Basics - Assessment Solutions
+3. Natural Language Processing Basics
+	3.1 Introduction to Natural Language Processing
+	3.2 Spacy Setup and Overview
+	3.3 What is Natural Language Processing?
+	3.4 Spacy Basics
+	3.5 Tokenization - Part One
+	3.6 Tokenization - Part Two
+	3.7 Stemming
+	3.8 Lemmatization
+	3.9 Stop Words
+	3.10 Phrase Matching and Vocabulary - Part One
+	3.11 Phrase Matching and Vocabulary - Part Two
+	3.12 NLP Basics Assessment Overview
+	3.13 NLP Basics Assessment Solution
+4. Part of Speech Tagging and Named Entity Recognition
+	4.1 Introduction to Section on POS and NER
+	4.2 Part of Speech Tagging
+	4.3 Visualizing Part of Speech
+	4.4 Named Entity Recognition - Part One
+	4.5 Named Entity Recognition - Part Two
+	4.6 Visualizing Named Entity Recognition
+	4.7 Sentence Segmentation
+	4.8 Part Of Speech Assessment
+	4.9 Part Of Speech Assessment - Solutions
+5. Text Classification
+	5.1 Introduction to Text Classification
+	5.2 Machine Learning Overview
+	5.3 Classification Metrics
+	5.4 Confusion Matrix
+	5.5 Scikit-Learn Primer - How to Use SciKit-Learn
+	5.6 Scikit-Learn Primer - Code Along Part One
+	5.7 Scikit-Learn Primer - Code Along Part Two
+	5.8 Text Feature Extraction Overview
+	5.9 Text Feature Extraction - Code Along Implementations
+	5.10 Text Feature Extraction - Code Along - Part Two
+	5.11 Text Classification Code Along Project
+	5.12 Text Classification Assessment Overview
+	5.13 Text Classification Assessment Solutions
+6. Semantics and Sentiment Analysis
+	6.1 Introduction to Semantics and Sentiment Analysis
+	6.2 Overview of Semantics and Word Vectors
+	6.3 Semantics and Word Vectors with Spacy
+	6.4 Sentiment Analysis Overview
+	6.5 Sentiment Analysis with NLTK
+	6.6 Sentiment Analysis Code Along Movie Review Project
+	6.7 Sentiment Analysis Project Assessment
+	6.8 Sentiment Analysis Project Assessment - Solutions
+7. Topic Modeling
+	7.1 Introduction to Topic Modeling Section
+	7.2 Overview of Topic Modeling
+	7.3 Latent Dirichlet Allocation Overview
+	7.4 Latent Dirichlet Allocation with Python - Part One
+	7.5 Latent Dirichlet Allocation with Python - Part Two
+	7.6 Non-negative Matrix Factorization Overview
+	7.7 Non-negative Matrix Factorization with Python
+	7.8 Topic Modeling Project - Overview
+	7.9 Topic Modeling Project - Solutions
+8. Deep Learning for NLP
+	8.1 Introduction to Deep Learning for NLP
+	8.2 The Basic Perceptron Model
+	8.3 Introduction to Neural Networks
+	8.4 Keras Basics - Part One
+	8.5 Keras Basics - Part Two
+	8.6 Recurrent Neural Network Overview
+	8.7 LSTMs, GRU, and Text Generation
+	8.8 Text Generation with LSTMs with Keras and Python - Part One
+	8.9 Text Generation with LSTMs with Keras and Python - Part Two
+	8.10 Text Generation with LSTMS with Keras - Part Three
+	8.11 Chat Bots Overview
+	8.12 Creating Chat Bots with Python - Part One
+	8.13 Creating Chat Bots with Python - Part Two
+	8.14 Creating Chat Bots with Python - Part Three
+	8.15 Creating Chat Bots with Python - Part Four
+9. BONUS SECTION: THANK YOU!
+	9.1 BONUS LECTURE

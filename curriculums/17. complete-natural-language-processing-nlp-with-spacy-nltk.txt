@@ -1,0 +1,62 @@
+1. Welcome
+	1.1 Course Overview
+	1.2 Reviews UPDATE
+	1.3 Introduction to NLP
+	1.4 Course FAQs
+2. Installation & Setup
+	2.1 Course Installation
+	2.2 Local Installation Steps
+	2.3 Links to Notebooks (As taught in Lectures)
+	2.4 Links to Notebooks (More explanatory notebook for refrence)
+3. Basics of Natural Language Processing
+	3.1 Section : Introduction
+	3.2 Tokenization Basic Part - 1
+	3.3 Tokenization Basic Part - 2
+	3.4 Tokenization Basic Part - 3
+	3.5 Stemming & Lemmatization - 1
+	3.6 Stemming & Lemmatization - 2
+	3.7 Stop Words
+	3.8 Vocabulary and Matching Part - 1
+	3.9 Vocabulary and Matching Part - 2 (Rule Based)
+	3.10 Vocabulary and Matching Part - 3 (Phrase Based)
+	3.11 Parts of Speech Tagging
+	3.12 Named Entity Recognition
+	3.13 Sentence Segmentation
+	3.14 NLP Basics
+4. Project 1 : Spam Message Classification
+	4.1 Business Problem & Dataset
+	4.2 Data Exploration & Preprocessing
+	4.3 Split Data in Training & Testing
+	4.4 Apply Random Forest
+	4.5 Apply Support vector Machine (SVM)
+	4.6 Predict Testing Data both model
+	4.7 Quiz
+5. Project 2 : Restaurant Review Prediction (Good or bad)
+	5.1 Business Problem
+	5.2 Cleaning Text Data with NLTK - 1
+	5.3 Cleaning Text Data with NLTK - 2
+	5.4 Bag of Word Model
+	5.5 Apply Naive Bayes Algorithm
+6. Project 3 : IMDB, Amazon and Yelp review Classification
+	6.1 Review Classification Part -1
+	6.2 Review Classification Part - 2
+7. Project 4 : Automated Text Summarization
+	7.1 Importing the libraries and Dataset
+	7.2 Create Word Frequency Counter
+	7.3 Calculate Sentence Score
+	7.4 Extract summary of document
+8. Project 5 : Twitter sentiment Analysis
+	8.1 Setting up Twitter Developer application
+	8.2 Fetch Tweet from Tweeter server
+	8.3 Find Setiment from Tweets
+9. Deep Learning Basics
+	9.1 The Neuron
+	9.2 Activation Function
+	9.3 Cost Function
+	9.4 Gradient Descent and Back-Propagation
+10. Word Embeddings
+	10.1 Introduction to Word Embedding
+	10.2 Train Model for Embedding - I
+	10.3 Train Model for Embedding - II
+	10.4 Embeddings with Pretrained model
+	10.5 Word Embeddings

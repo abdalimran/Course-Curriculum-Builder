@@ -1,0 +1,73 @@
+1. Welcome
+	1.1 Introduction
+	1.2 Outline
+	1.3 Where to get the code
+	1.4 How to Succeed in this Course
+2. Recurrent Neural Networks, Convolutional Neural Networks, and Word Embeddings
+	2.1 Review Section Introduction
+	2.2 How to Open Files for Windows Users
+	2.3 What is a word embedding?
+	2.4 Using word embeddings
+	2.5 What is a CNN?
+	2.6 Where to get the data
+	2.7 CNN Code (part 1)
+	2.8 CNN Code (part 2)
+	2.9 What is an RNN?
+	2.10 GRUs and LSTMs
+	2.11 Different Types of RNN Tasks
+	2.12 A Simple RNN Experiment
+	2.13 RNN Code
+	2.14 Review Section Summary
+	2.15 Suggestion Box
+3. Bidirectional RNNs
+	3.1 Bidirectional RNNs Motivation
+	3.2 Bidirectional RNN Experiment
+	3.3 Bidirectional RNN Code
+	3.4 Image Classification with Bidirectional RNNs
+	3.5 Image Classification Code
+	3.6 Bidirectional RNNs Section Summary
+4. Sequence-to-sequence models (Seq2Seq)
+	4.1 Seq2Seq Theory
+	4.2 Seq2Seq Applications
+	4.3 Decoding in Detail and Teacher Forcing
+	4.4 Poetry Revisited
+	4.5 Poetry Revisited Code 1
+	4.6 Poetry Revisited Code 2
+	4.7 Seq2Seq in Code 1
+	4.8 Seq2Seq in Code 2
+	4.9 Seq2Seq Section Summary
+5. Attention
+	5.1 Attention Section Introduction
+	5.2 Attention Theory
+	5.3 Teacher Forcing
+	5.4 Helpful Implementation Details
+	5.5 Attention Code 1
+	5.6 Attention Code 2
+	5.7 Visualizing Attention
+	5.8 Building a Chatbot without any more Code
+	5.9 Attention Section Summary
+6. Memory Networks
+	6.1 Memory Networks Section Introduction
+	6.2 Memory Networks Theory
+	6.3 Memory Networks Code 1
+	6.4 Memory Networks Code 2
+	6.5 Memory Networks Code 3
+	6.6 Memory Networks Section Summary
+7. Keras and Tensorflow 2 Basics
+	7.1 (Review) Keras Discussion
+	7.2 (Review) Keras Neural Network in Code
+	7.3 (Review) Keras Functional API
+	7.4 (Review) How to easily convert Keras into Tensorflow 2.0 code
+8. Setting Up Your Environment (FAQ by Student Request)
+	8.1 Anaconda Environment Setup
+	8.2 How to How to install Numpy, Theano, Tensorflow, etc...
+9. Extra Help With Python Coding for Beginners (FAQ by Student Request)
+	9.1 How to Code by Yourself (part 1)
+	9.2 How to Code by Yourself (part 2)
+	9.3 Proof that using Jupyter Notebook is the same as not using it
+	9.4 Python 2 vs Python 3
+10. Effective Learning Strategies for Machine Learning (FAQ by Student Request)
+	10.1 How to Succeed in this Course (Long Version)
+	10.2 Is this for Beginners or Experts? Academic or Practical? Fast or slow-paced?
+	10.3 Machine Learning and AI Prerequisite Roadmap (pt 1)
+	10.4 Machine Learning and AI Prerequisite Roadmap (pt 2)

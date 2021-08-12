@@ -1,0 +1,154 @@
+1. Introduction
+	1.1 Introduction
+2. Installing Software
+	2.1 How to Download Anaconda
+	2.2 VERY IMPORTANT NOTE FOR STUDENTS!!
+	2.3 How to Download R Studio
+3. Data Science with Python
+	3.1 Introduction to NumPy
+	3.2 Understanding Data Types in Python
+	3.3 Fixed Type Arrays in Python
+	3.4 Creating Arrays from Scratch
+	3.5 The Basics of NumPy Arrays
+	3.6 Array Slicing - Accessing Subarrays
+	3.7 Reshaping of Arrays
+	3.8 Splitting of Arrays
+	3.9 Splitting of Arrays - 2
+	3.10 Exploring NumPy's UFuncs
+	3.11 Exponents and Logarithms
+	3.12 Advanced UFunc Functions
+	3.13 Aggregations
+	3.14 Example US Presidents
+	3.15 Computation on Arrays - Broadcasting
+	3.16 Broadcasting Example
+	3.17 Broadcasting in Practice
+	3.18 Comparisons, Masks and Boolean Logic
+	3.19 Boolean Operators
+	3.20 Boolean Arrays as Masks
+	3.21 Fancy Indexing
+	3.22 Combined Indexing
+	3.23 Modifying values with Fancy Indexing
+	3.24 Example Binning Data
+	3.25 Sorting Arrays
+	3.26 Fast Sorting in NumPy
+	3.27 Example: k-Nearest Neighbors
+	3.28 Structured Data - NumPy's Structured Arrays
+	3.29 More Advanced Component Types
+4. Data Manipulation with Pandas
+	4.1 Introduction
+	4.2 Installing and Using Pandas
+	4.3 Introducing Pandas Objects
+	4.4 Constructing Series Objects
+	4.5 The Pandas DataFrame Object
+	4.6 DataFrame as a specialized Dictionary
+	4.7 The Pandas Index Object
+	4.8 Data Indexing and Selection
+	4.9 Data Selection in DataFrame
+	4.10 DataFrame as two-dimensional array
+	4.11 Operating on Data in Pandas
+	4.12 UFuncs Index Alignment
+	4.13 Index alignment in DataFrame
+	4.14 Ufuncs Operations Between DataFrame and Series
+	4.15 Handling Missing Data
+	4.16 Missing Data in Pandas
+	4.17 NaN and None in Pandas
+	4.18 Operating on Null Values
+	4.19 Hierarchical Indexing
+	4.20 The better way Pandas MultiIndex
+	4.21 Methods of MultiIndex Creation
+	4.22 MultiIndex for columns
+	4.23 Indexing and Slicing a MultiIndex
+	4.24 Rearranging Multi-Indices
+	4.25 Index setting and resetting
+	4.26 Data Aggregations on Multi-Indices
+	4.27 Combining Datasets Concat and Append
+	4.28 Duplicate indices
+	4.29 Catching the repeats as an error
+	4.30 Combining Datasets Merge and Join
+	4.31 Specification of the Merge Key
+	4.32 Specifying Set Arithmetic for Joins
+	4.33 Example US States Data
+	4.34 Example US States Data - 2
+	4.35 Aggregation and Grouping
+	4.36 GroupBy Split, Apply, Combine
+	4.37 Iteration over groups
+	4.38 Aggregate, filter, transform, apply
+	4.39 Transformation
+	4.40 Pivot Tables
+	4.41 Pivot Table Syntax
+	4.42 Example Birthrate Data
+	4.43 Vectorized String Operations
+	4.44 Methods using regular expressions
+	4.45 Working with Time Series
+	4.46 Dates and times in Pandas Best of both worlds
+	4.47 Pandas Time Series Data Structures
+	4.48 Example Visualizing Seattle Bicycle Counts
+	4.49 Example Visualizing Seattle Bicycle Counts - 1
+	4.50 High-Performance Pandas eval() and query()
+	4.51 pandas.eval() for Efficient Operations
+	4.52 DataFrame.eval() for Column-Wise Operations
+5. Data Visualization with Matplotlib
+	5.1 Visualization with Matplotlib
+	5.2 Plotting from an IPython Shell
+	5.3 Two Interfaces for the Price of one
+	5.4 Simple Line Plots
+	5.5 Adjusting the Plot - Axes Limits
+	5.6 Simple Scatter Plots
+	5.7 Scatter Plots with plt.scatter
+	5.8 Basic Errorbars
+	5.9 Density and Contour Plots
+	5.10 Histograms, Binnings, and Density
+	5.11 plt.hexbin - Hexagonal binnings
+	5.12 Customizing Plot Legends
+	5.13 Legend for Size of Points
+	5.14 Multiple Legends
+	5.15 Customizing Color-bars
+	5.16 Color limits and extensions
+	5.17 Example Handwritten Digits
+	5.18 Multiple Subplots
+	5.19 plt.subplots The Whole Grid in One Go
+	5.20 Text and Annotation
+	5.21 Arrows and Annotation
+	5.22 Major and Minor Ticks
+	5.23 Reducing or Increasing the Number of Ticks
+	5.24 Customizing Matplotlib Configurations and Stylesheets
+	5.25 Changing the Defaults rcParams
+	5.26 Stylesheets
+	5.27 Three-Dimensional Plotting in Matplotlib
+	5.28 Wireframes and Surface Plots
+	5.29 Example Visualizing a Möbius strip
+	5.30 Geographic Data with Basemap
+	5.31 Map Projections
+	5.32 Seaborn Versus Matplotlib
+	5.33 Pair plots
+	5.34 Bar Plots
+6. ||Machine Learning with Python||
+	6.1 Data Wrangling
+	6.2 Creating a DataFrame
+	6.3 Describing the Data
+	6.4 Selecting Rows based on Conditionals
+	6.5 Renaming Columns
+	6.6 Finding the Minimum, Maximum, Sum, Average and Count
+	6.7 Handling Missing Values
+	6.8 Deleting a Row & Dropping Duplicate Rows
+	6.9 Grouping Values by Variables
+	6.10 Looping over a column
+	6.11 Concatenating DataFrames
+	6.12 Merging DataFrames
+7. Handling Categorical Data
+	7.1 Encoding Nominal Categorical Data
+	7.2 Encoding Ordinal Categorical Features
+	7.3 Encoding Dictionaries of Features
+	7.4 Imputing Missing Class Values
+	7.5 Handling Imbalanced Classes
+8. Handling Missing Values
+	8.1 Rescaling a Feature
+	8.2 Normalizing Observations
+9. Handling Numerical Data
+	9.1 Transforming Features
+	9.2 Detecting Outliers
+	9.3 Handling Outliers
+	9.4 Discretizating Features
+	9.5 Grouping Observations using Clustering
+10. Loading Data
+	10.1 Loading Data

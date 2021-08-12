@@ -1,0 +1,49 @@
+1. Course Introduction
+	1.1 Course Intro and Outline
+2. Setup
+	2.1 Windows Setup
+	2.2 OS X Setup
+3. Python Refresher
+	3.1 Lists
+	3.2 Dictionaries
+	3.3 Loops and Conditionals
+	3.4 Functions
+4. NLTK and the Basics
+	4.1 Overview - The Natural Language Tool Kit
+	4.2 Counting Text
+	4.3 Example - Words Per Sentence Trends
+	4.4 Frequency Distribution
+	4.5 Conditional Frequency Distribution
+	4.6 Example - Informative Words
+	4.7 Bigrams
+	4.8 Overview - Regular Expressions
+	4.9 Regular Expression Practice
+5. Tokenization , Tagging, Chunking
+	5.1 Overview - Tokenization
+	5.2 Tokenization
+	5.3 Normalizing
+	5.4 Part of Speech Tagging
+	5.5 Example - Multiple Parts of Speech
+	5.6 Example - Choices
+	5.7 Chunking
+	5.8 Named Entity Recognition
+6. Custom Sources
+	6.1 Overview - Character Encoding
+	6.2 Text File
+	6.3 HTML
+	6.4 URL
+	6.5 CSV File
+	6.6 Exporting
+	6.7 NLTK Resources
+	6.8 Example - Remove Stopwords
+7. Projects
+	7.1 Sentiment Analysis Intro
+	7.2 Basic Sentiment Analysis
+	7.3 Gender Prediction Intro
+	7.4 Gender Prediction
+	7.5 TF-IDF Intro
+	7.6 TF-IDF
+8. Appendix
+	8.1 Additional NLP Resources
+	8.2 Learning Python
+	8.3 Future Course Content

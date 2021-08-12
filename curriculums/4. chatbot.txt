@@ -1,0 +1,99 @@
+1. Welcome to the course!
+	1.1 Get Excited!
+	1.2 Applications
+	1.3 BONUS: Learning Paths
+	1.4 Some Additional Resources!!
+	1.5 This PDF resource will help you a lot!
+	1.6 Your Shortcut To Becoming A Better Data Scientist!
+2. Deep NLP Intuition
+	2.1 What You'll Need For This Module
+	2.2 Updates on Udemy Reviews
+	2.3 Plan of Attack
+	2.4 Types of Natural Language Processing
+	2.5 Classical vs Deep Learning Models
+	2.6 End-to-end Deep Learning Models
+	2.7 Bag-of-words model
+	2.8 Seq2Seq Architecture (Part 1)
+	2.9 Seq2Seq Architecture (Part 2)
+	2.10 Seq2Seq Training
+	2.11 Beam Search Decoding
+	2.12 Attention Mechanisms (Part 1)
+	2.13 Attention Mechanisms (Part 2)
+3. Building a ChatBot with Deep NLP
+	3.1 ChatBot - Step 1
+	3.2 ChatBot - Step 2
+	3.3 ChatBot - Step 3
+4. ---------- PART 1 - DATA PREPROCESSING ----------
+	4.1 Welcome to Part 1 - Data Preprocessing
+	4.2 ChatBot - Step 4
+	4.3 ChatBot - Step 5
+	4.4 ChatBot - Step 6
+	4.5 ChatBot - Step 7
+	4.6 ChatBot - Step 8
+	4.7 ChatBot - Step 9
+	4.8 ChatBot - Step 10
+	4.9 ChatBot - Step 11
+	4.10 ChatBot - Step 12
+	4.11 ChatBot - Step 13
+	4.12 ChatBot - Step 14
+	4.13 ChatBot - Step 15
+	4.14 ChatBot - Step 16
+	4.15 ChatBot - Step 17
+	4.16 Checkpoint!
+5. ---------- PART 2 - BUILDING THE SEQ2SEQ MODEL ----------
+	5.1 What You'll Need For This Module
+	5.2 Welcome to Part 2 - Building the Seq2Seq Model
+	5.3 ChatBot - Step 18
+	5.4 ChatBot - Step 19
+	5.5 ChatBot - Step 20
+	5.6 ChatBot - Step 21
+	5.7 ChatBot - Step 22
+	5.8 ChatBot - Step 23
+	5.9 ChatBot - Step 24
+	5.10 Checkpoint!
+6. ---------- PART 3 - TRAINING THE SEQ2SEQ MODEL ----------
+	6.1 What You'll Need For This Module
+	6.2 Welcome to Part 3 - Training the Seq2Seq Model
+	6.3 ChatBot - Step 25
+	6.4 ChatBot - Step 26
+	6.5 ChatBot - Step 27
+	6.6 ChatBot - Step 28
+	6.7 ChatBot - Step 29
+	6.8 ChatBot - Step 30
+	6.9 ChatBot - Step 31
+	6.10 ChatBot - Step 32
+	6.11 ChatBot - Step 33
+	6.12 ChatBot - Step 34
+	6.13 ChatBot - Step 35
+	6.14 ChatBot - Step 36
+	6.15 Checkpoint!
+7. ---------- PART 4 - TESTING THE SEQ2SEQ MODEL ----------
+	7.1 What You'll Need For This Module
+	7.2 Welcome to Part 4 - Testing the Seq2Seq Model
+	7.3 ChatBot - Step 37
+	7.4 ChatBot - Step 38
+	7.5 ChatBot - Step 39
+	7.6 ChatBot - Step 40
+	7.7 Checkpoint!
+	7.8 Training the ChatBot on Google Colab with GPU
+8. ---------- PART 5 - IMPROVING & TUNING THE SEQ2SEQ MODEL ----------
+	8.1 ChatBot - Step 41: Improving & Tuning the ChatBot
+	8.2 ChatBot - Step 42: Introduction to a new model & setup
+	8.3 ChatBot - Step 43: Chatbot model discussion
+	8.4 ChatBot - Step 44: Tensorboard
+	8.5 ChatBot - Step 45: Run the new chatbot model
+9. Other ChatBot Implementations
+	9.1 What You'll Need For This Module
+	9.2 The Best ChatBot
+	9.3 A ChatBot Implementation in TensorFlow 1.4
+	9.4 A ChatBot Implementation in PyTorch
+	9.5 THANK YOU bonus video
+10. Annex 1: Artificial Neural Networks
+	10.1 Plan of Attack
+	10.2 The Neuron
+	10.3 The Activation Function
+	10.4 How do Neural Networks work?
+	10.5 How do Neural Networks learn?
+	10.6 Gradient Descent
+	10.7 Stochastic Gradient Descent
+	10.8 Backpropagation

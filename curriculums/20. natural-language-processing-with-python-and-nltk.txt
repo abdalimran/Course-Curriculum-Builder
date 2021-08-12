@@ -1,0 +1,55 @@
+1. Environment Setup and Installation
+	1.1 Introduction to the course NLP with Python and NLTK
+	1.2 Before starting this course read this Guidelines
+	1.3 Resources
+	1.4 Environment Setup: Anaconda for Windows
+	1.5 VirtualBox and Ubuntu
+	1.6 Environment Setup: Anaconda for Linux
+	1.7 Codes in Python 3.6 and Installation Instructions
+2. Machine Learning Review
+	2.1 Introduction
+	2.2 Scikit-Learn
+	2.3 Machine Learning concepts: Overfitting, Underfitting and Cross Validation
+	2.4 Classification model and evaluation: Confusion matrix and ROC curve
+	2.5 Logistic Regression
+	2.6 Support Vector Machines
+	2.7 Decision Trees and Random Forest
+	2.8 KNN algorithm
+	2.9 GridSearchCV
+	2.10 K-means Clustering
+	2.11 PCA
+3. Collecting Text Data
+	3.1 Regular Expressions - part 1
+	3.2 Regular Expressions - part 2
+	3.3 NLTK Installation
+	3.4 Web Scraping
+	3.5 Extracting text content from different media with Textract
+4. Text Data Preprocessing
+	4.1 Sentence splitter and Tokenization
+	4.2 Stemming and Lemmatization
+	4.3 Stop word removal
+	4.4 Part of Speech (POS) tagging
+	4.5 Chunking
+	4.6 N-grams
+	4.7 Bag of Words: CountVectorizer, TfidfVectorizer
+5. Text Data Visualization
+	5.1 Frequency Chart
+	5.2 Co-Occurrence Matrix
+	5.3 Word Cloud
+6. Model building
+	6.1 Text Similarity
+	6.2 Text Clustering
+	6.3 Latent Semantic Analysis
+	6.4 Topic Modelling
+	6.5 Text Classification
+	6.6 Sentiment Analysis
+	6.7 Word2Vec
+	6.8 Recommender Systems : Collaborative Filtering part 1
+	6.9 Recommender Systems : Collaborative Filtering part 2
+7. NLP applications
+	7.1 Text Summarization app
+	7.2 Spam detector app
+	7.3 Word2Vec on Wikipedia
+	7.4 Recommender System with KNN
+	7.5 Social Media Mining on Twitter
+	7.6 The End Class

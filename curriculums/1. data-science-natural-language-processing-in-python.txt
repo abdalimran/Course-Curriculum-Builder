@@ -1,0 +1,74 @@
+1. Natural Language Processing - What is it used for?
+	1.1 Introduction and Outline
+	1.2 Why Learn NLP?
+	1.3 The Central Message of this Course (Big Picture Perspective)
+2. Course Preparation
+	2.1 How to Succeed in this Course
+	2.2 Where to get the code and data
+	2.3 How to Open Files for Windows Users
+3. Machine Learning Basics Review
+	3.1 Machine Learning: Section Introduction
+	3.2 What is Classification?
+	3.3 Classification in Code
+	3.4 What is Regression?
+	3.5 Regression in Code
+	3.6 What is a Feature Vector?
+	3.7 Machine Learning is Nothing but Geometry
+	3.8 All Data is the Same
+	3.9 Comparing Different Machine Learning Models
+	3.10 Machine Learning and Deep Learning: Future Topics
+	3.11 Section Summary
+4. Decrypting Ciphers
+	4.1 Section Introduction
+	4.2 Ciphers
+	4.3 Language Models
+	4.4 Genetic Algorithms
+	4.5 Code Preparation
+	4.6 Link to Cipher Notebook
+	4.7 Code pt 1
+	4.8 Code pt 2
+	4.9 Code pt 3
+	4.10 Code pt 4
+	4.11 Code pt 5
+	4.12 Code pt 6
+	4.13 Section Conclusion
+5. Build your own spam detector
+	5.1 Build your own spam detector - description of data
+	5.2 Build your own spam detector using Naive Bayes and AdaBoost - the code
+	5.3 Key Takeaway from Spam Detection Exercise
+	5.4 Naive Bayes Concepts
+	5.5 AdaBoost Concepts
+	5.6 Other types of features
+	5.7 Spam Detection FAQ (Remedial #1)
+	5.8 What is a Vector? (Remedial #2)
+	5.9 SMS Spam Example
+	5.10 SMS Spam in Code
+	5.11 Suggestion Box
+6. Build your own sentiment analyzer
+	6.1 Description of Sentiment Analyzer
+	6.2 Logistic Regression Review
+	6.3 Preprocessing: Tokenization
+	6.4 Preprocessing: Tokens to Vectors
+	6.5 Sentiment Analysis in Python using Logistic Regression
+	6.6 Sentiment Analysis Extension
+	6.7 How to Improve Sentiment Analysis & FAQ
+7. NLTK Exploration
+	7.1 NLTK Exploration: POS Tagging
+	7.2 NLTK Exploration: Stemming and Lemmatization
+	7.3 NLTK Exploration: Named Entity Recognition
+	7.4 Want more NLTK?
+8. Latent Semantic Analysis
+	8.1 Latent Semantic Analysis - What does it do?
+	8.2 SVD - The underlying math behind LSA
+	8.3 Latent Semantic Analysis in Python
+	8.4 What is Latent Semantic Analysis Used For?
+	8.5 Extending LSA
+9. Write your own article spinner
+	9.1 Article Spinning Introduction and Markov Models
+	9.2 Trigram Model
+	9.3 More about Language Models
+	9.4 Precode Exercises
+	9.5 Writing an article spinner in Python
+	9.6 Article Spinner Extension Exercises
+10. How to learn more about NLP
+	10.1 What we didn't talk about

@@ -1,0 +1,94 @@
+1. INTRODUCTION TO THE COURSE: The Key Concepts and Software Tools
+	1.1 Introduction
+	1.2 Data and Scripts For the Course
+	1.3 Introduction to R and RStudio
+	1.4 Start with Rattle
+	1.5 Troubleshooting For Rattle
+	1.6 Conclusion to Section 1
+2. Reading in Data from Different Sources in R
+	2.1 Read in Data from CSV and Excel Files
+	2.2 Read Data from a Database
+	2.3 Read Data from JSON
+	2.4 Read in Data from Online CSVs
+	2.5 Read in Data from Online HTML Tables-Part 1
+	2.6 Read in Data from Online HTML Tables-Part 2
+	2.7 Read Data from Other Sources
+	2.8 Conclusions to Section 2
+3. Exploratory Data Analysis and Data Visualization in R
+	3.1 Remove NAs
+	3.2 More Data Cleaning
+	3.3 Exploratory Data Analysis(EDA): Basic Visualizations with R
+	3.4 More Exploratory Data Analysis with xda
+	3.5 Introduction to dplyr for Data Summarizing-Part 1
+	3.6 Introduction to dplyr for Data Summarizing-Part 2
+	3.7 Data Exploration & Visualization With dplyr & ggplot2
+	3.8 Pre-Processing Dates-Part 1
+	3.9 Pre-Processing Dates-Part 2
+	3.10 Plotting Temporal Data in R
+	3.11 Twist in the (Temporal) Data
+	3.12 Associations Between Quantitative Variables- Theory
+	3.13 Testing for Correlation
+	3.14 Evaluate the Relation Between Nominal Variables
+	3.15 Cramer's V for Examining the Strength of Association Between Nominal Variable
+	3.16 Section 3 Quiz
+4. Data Mining for Patterns and Relationships
+	4.1 What is Data Mining?
+	4.2 Association Mining with Apriori
+	4.3 Apriori with Real Data
+	4.4 Visualize the Rules
+	4.5 Association Mining with Eclat
+	4.6 Eclat with Real Data
+5. Machine Learning for Data Science
+	5.1 How is Machine Learning Different from Statistical Data Analysis?
+	5.2 What is Machine Learning (ML) About? Some Theoretical Pointers
+6. Unsupervised Classification- R
+	6.1 K-means Clustering
+	6.2 Fuzzy K-Means Clustering
+	6.3 Weighted K-Means Clustering
+	6.4 Hierarchical Clustering in R
+	6.5 Expectation-Maximization (EM) in R
+	6.6 Use Rattle for Unsupervised Clustering
+	6.7 Conclusions to Section 6
+	6.8 Section 6 Quiz
+7. Dimension Reduction
+	7.1 Dimensionality Reduction-theory
+	7.2 PCA
+	7.3 Removing Highly Correlated Predictor Variables
+	7.4 Variable Selection Using LASSO Regression
+	7.5 Variable Selection With FSelector
+	7.6 Boruta Analysis for Feature Selection
+	7.7 Conclusions to Section 7
+	7.8 Section 7 Quiz
+8. Supervised Learning Theory
+	8.1 Some Basic Supervised Learning Concepts
+	8.2 Pre-processing for Supervised Learning
+9. Supervised Learning: Classification
+	9.1 Binary Classification
+	9.2 What are GLMs?
+	9.3 Logistic Regression Models as Binary Classifiers
+	9.4 Linear Discriminant Analysis (LDA)
+	9.5 Binary Classifier with PCA
+	9.6 Obtain Binary Classification Accuracy Metrics
+	9.7 Multi-class Classification Models
+	9.8 Our Multi-class Classification Problem
+	9.9 Classification Trees
+	9.10 More on Classification Tree Visualization
+	9.11 Decision Trees
+	9.12 Random Forest (RF) classification
+	9.13 Examine Individual Variable Importance for Random Forests
+	9.14 GBM Classification
+	9.15 Support Vector Machines (SVM) for Classification
+	9.16 More SVM for Classification
+	9.17 Conclusions to Section 9
+	9.18 Section 9 Quiz
+10. Supervised Learning: Regression
+	10.1 Ridge Regression in R
+	10.2 LASSO Regression in R
+	10.3 Generalized Additive Models (GAMs) in R
+	10.4 Boosted GAMs
+	10.5 MARS Regression
+	10.6 CART-Regression Trees in R
+	10.7 Random Forest (RF) Regression
+	10.8 GBM Regression
+	10.9 Compare Models
+	10.10 Conclusions to Section 10

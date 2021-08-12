@@ -1,0 +1,77 @@
+1. Introduction
+	1.1 Introduction
+	1.2 Course Overview
+	1.3 Environment Setup
+	1.4 Alternative Setup
+	1.5 CUDA Setup
+2. NLP and Transformers
+	2.1 The Three Eras of AI
+	2.2 Pros and Cons of Neural AI
+	2.3 Word Vectors
+	2.4 Recurrent Neural Networks
+	2.5 Long Short-Term Memory
+	2.6 Encoder-Decoder Attention
+	2.7 Self-Attention
+	2.8 Multi-head Attention
+	2.9 Positional Encoding
+	2.10 Transformer Heads
+3. Preprocessing for NLP
+	3.1 Stopwords
+	3.2 Tokens Introduction
+	3.3 Model-Specific Special Tokens
+	3.4 Stemming
+	3.5 Lemmatization
+	3.6 Unicode Normalization - Canonical and Compatibility Equivalence
+	3.7 Unicode Normalization - Composition and Decomposition
+	3.8 Unicode Normalization - NFD and NFC
+	3.9 Unicode Normalization - NFKD and NFKC
+4. Attention
+	4.1 Attention Introduction
+	4.2 Alignment With Dot-Product
+	4.3 Dot-Product Attention
+	4.4 Self Attention
+	4.5 Bidirectional Attention
+	4.6 Multi-head and Scaled Dot-Product Attention
+5. Language Classification
+	5.1 Introduction to Sentiment Analysis
+	5.2 Prebuilt Flair Models
+	5.3 Introduction to Sentiment Models With Transformers
+	5.4 Tokenization And Special Tokens For BERT
+	5.5 Making Predictions
+6. [Project] Sentiment Model With TensorFlow and Transformers
+	6.1 Project Overview
+	6.2 Getting the Data (Kaggle API)
+	6.3 Preprocessing
+	6.4 Building a Dataset
+	6.5 Dataset Shuffle, Batch, Split, and Save
+	6.6 Build and Save
+	6.7 Loading and Prediction
+7. Long Text Classification With BERT
+	7.1 Classification of Long Text Using Windows
+	7.2 Window Method in PyTorch
+8. Named Entity Recognition (NER)
+	8.1 Introduction to spaCy
+	8.2 Extracting Entities
+	8.3 NER Walkthrough
+	8.4 Authenticating With The Reddit API
+	8.5 Pulling Data With The Reddit API
+	8.6 Extracting ORGs From Reddit Data
+	8.7 Getting Entity Frequency
+	8.8 Entity Blacklist
+	8.9 NER With Sentiment
+	8.10 NER With roBERTa
+9. Question and Answering
+	9.1 Open Domain and Reading Comprehension
+	9.2 Retrievers, Readers, and Generators
+	9.3 Intro to SQuAD 2.0
+	9.4 Processing SQuAD Training Data
+	9.5 (Optional) Processing SQuAD Training Data with Match-Case
+	9.6 Processing SQuAD Dev Data
+	9.7 Our First Q&A Model
+10. Metrics For Language
+	10.1 Q&A Performance With Exact Match (EM)
+	10.2 ROUGE in Python
+	10.3 Applying ROUGE to Q&A
+	10.4 Recall, Precision and F1
+	10.5 Longest Common Subsequence (LCS)
+	10.6 Q&A Performance With ROUGE

@@ -1,0 +1,142 @@
+1. Introduction
+	1.1 Machine Learning Intuition
+	1.2 Course Overview
+	1.3 DO NOT SKIP IT | Resources Folder!
+	1.4 Install Anaconda and Python 3 on Windows 10
+	1.5 Install Anaconda and Python 3 on Ubuntu Machine
+	1.6 Install Anaconda and Python 3 on Mac Machine
+	1.7 Install Git Bash and Commander Terminal
+	1.8 Jupyter Notebook Shortcuts
+2. Python Crash Course
+	2.1 Introduction
+	2.2 Data Types
+	2.3 Variable Assignment
+	2.4 String Assignment
+	2.5 List
+	2.6 Set
+	2.7 Tuple
+	2.8 Dictionary
+	2.9 Boolean and Comparison Operator
+	2.10 Logical Operator
+	2.11 If, Else, Elif
+	2.12 Loops in Python
+	2.13 Methods and Lambda Function
+3. Numpy Introduction [Optional]
+	3.1 Introduction
+	3.2 Array
+	3.3 NaN and INF
+	3.4 Statistical Operations
+	3.5 Shape, Reshape, Ravel, Flatten
+	3.6 Sequence, Repetitions, and Random Numbers
+	3.7 Where(), ArgMax(), ArgMin()
+	3.8 File Read and Write
+	3.9 Concatenate and Sorting
+	3.10 Working with Dates
+4. Pandas Introduction [Optional]
+	4.1 Introduction
+	4.2 DataFrame and Series
+	4.3 File Reading and Writing
+	4.4 Info, Shape, Duplicated, and Drop
+	4.5 Columns
+	4.6 NaN and Null Values
+	4.7 Imputation
+	4.8 Lambda Function
+5. Spacy Introduction
+	5.1 Must Read This
+	5.2 Introduction to NLP
+	5.3 Install Spacy
+	5.4 Introduction to Spacy
+	5.5 Tokenization
+	5.6 Parts of Speech [POS] Tagging
+	5.7 Dependency Visualization
+	5.8 Named Entity Recognition (NER)
+	5.9 Sentence Segmentation
+	5.10 Rule Based Phrase Matching
+	5.11 Regular Expression Part 1
+	5.12 Regular Expression Part 2
+	5.13 Processing Pipeline in Spacy
+	5.14 Hashtags and Emoji Detection
+6. Working with Text Files
+	6.1 String Formatting
+	6.2 Working with open() Files in write() Mode Part 1
+	6.3 Working with open() Files in write() Mode Part 2
+	6.4 Working with open() Files in write() Mode Part 3
+	6.5 Read and Evaluate the Files
+	6.6 Reading and Writing .CSV and .TSV Files with Pandas
+	6.7 Reading and Writing .XLSX Files with Pandas
+	6.8 Reading and Writing .JSON Files
+	6.9 Reading Files from URL Links
+	6.10 Extract Text Data From PDF
+	6.11 Record the Audio and Convert to Text
+	6.12 Convert Audio in Text Data
+	6.13 Text to Speech Generation
+7. Complete Text Cleaning and Preprocessing
+	7.1 Must Read This
+	7.2 Introduction
+	7.3 Word Counts
+	7.4 Characters Counts
+	7.5 Average Word Length
+	7.6 Stop Words Count
+	7.7 Count #hashtag and @mentions
+	7.8 Numeric Digit Count
+	7.9 Upper case Words Count
+	7.10 Lower case Conversion
+	7.11 Contraction to Expansion
+	7.12 Count and Remove Emails
+	7.13 Count and Remove URLs
+	7.14 Remove RT from Tweeter Data
+	7.15 Special Chars Removal and Punctuation Removal
+	7.16 Remove Multiple Spaces
+	7.17 Remove HTML Tags
+	7.18 Remove Accented Chars
+	7.19 Remove Stop Words
+	7.20 Convert into Base or Root Form of Words
+	7.21 Common Words Removal
+	7.22 Rare Words Removal
+	7.23 Word Cloud Visualization
+	7.24 Spelling Correction
+	7.25 Tokenization with TextBlob
+	7.26 Nouns Detection
+	7.27 Language Translation and Detection
+	7.28 Sentiment Prediction with TextBlob
+8. Text Cleaning and Preprocessing in Python | Software Packaging for PIP Install
+	8.1 Code Files Setup
+	8.2 Readme and License File Preparation
+	8.3 Setup.py Preparation
+	8.4 Utils.py Code Along Part 1
+	8.5 Utils.py Code Along Part 2
+	8.6 Utils.py Code Along Part 3
+	8.7 Utils.py Code Along Part 4
+	8.8 __init__.py Code Along
+	8.9 GitHub Account Setup and Package Upload
+	8.10 SSH Key Setup for GitHub
+	8.11 Install Preprocess Python Package
+	8.12 Removing the Errors Part 1
+	8.13 Removing the Errors Part 2
+	8.14 Testing the Package
+9. Introduction to Machine Learning with Scikit-Learn
+	9.1 Logistic Regression Intuition
+	9.2 Support Vector Machine Intuition
+	9.3 Decision Tree Intuition
+	9.4 Random Forest Intuition
+	9.5 L2 Regularization
+	9.6 L1 Regularization
+	9.7 Model Evaluation Metrics: Accuracy, Precision, Recall, and Confusion Matrix
+	9.8 Model Evaluation Metrics: ROC and AUC
+	9.9 Code Along in Python Part 1
+	9.10 Code Along in Python Part 2
+	9.11 Code Along in Python Part 3
+	9.12 Code Along in Python Part 4
+10. Spam Text Classification
+	10.1 Text Feature Extraction Intuition Part 1
+	10.2 Text Feature Extraction Intuition Part 2
+	10.3 Bag of Words (BoW) Code Along in Python
+	10.4 Term Frequency (TF) Code Along in Python
+	10.5 Inverse Document Frequency (IDF) Code Along in Python
+	10.6 TFIDF Code Along in Python
+	10.7 Load Spam Dataset
+	10.8 Balance Dataset
+	10.9 Exploratory Data Analysis (EDA)
+	10.10 Data Preparation for Training
+	10.11 Build and Train SVM and Random Forest Models
+	10.12 Test Your Model with Real Data

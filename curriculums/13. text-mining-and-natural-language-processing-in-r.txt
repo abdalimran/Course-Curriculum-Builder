@@ -1,0 +1,91 @@
+1. INTRODUCTION TO THE COURSE: The Key Concepts and Software Tools
+	1.1 About the Course and Instructor
+	1.2 Data and Scripts For the Course
+	1.3 Introduction to R and RStudio
+	1.4 Conclusion to Section 1
+2. Reading in Data from Different Sources
+	2.1 Read in CSV & Excel Data
+	2.2 Read in Data from Online CSV
+	2.3 Read in Zipped File
+	2.4 Read Data from a Database
+	2.5 Read in JSON Data
+	2.6 Read in Data from PDF Documents
+	2.7 Read in Tables from PDF Documents
+	2.8 Conclusion to Section 2
+3. Webscraping: Extract Data from Webpages
+	3.1 Read in Data From Online Google Sheets
+	3.2 Read in Data from Online HTML Tables-Part 1
+	3.3 Read in Data from Online HTML Tables-Part 2
+	3.4 Get and Clean Data from HTML Tables
+	3.5 Read Text Data from an HTML Page
+	3.6 Introduction to Selector Gadget
+	3.7 More Webscraping With rvest-IMDB Webpage
+	3.8 Another Way of Accessing Webpage Elements
+	3.9 Conclusions to Section 3
+4. Introduction to APIs
+	4.1 What is an API?
+	4.2 Extract Text Data from Guardian Newspaper
+5. Text Data Mining from Social Media
+	5.1 Extract Data from Facebook
+	5.2 Get More out Of Facebook
+	5.3 Set up a Twitter App for Mining Data from Twitter
+	5.4 Extract Tweets Using R
+	5.5 More Twitter Data Extraction Using R
+	5.6 Get Tweet Locations
+	5.7 Get Location Specific Trends
+	5.8 Learn More About the Followers of a Twitter Handle
+	5.9 Another Way of Extracting Information From Twitter- the rtweet Package
+	5.10 Geolocation Specific Tweets With "rtweet"
+	5.11 More Data Extraction Using rtweet
+	5.12 Locations of Tweets
+	5.13 Mining Github Using R
+	5.14 Set up the FourSquare App
+	5.15 Extract Reviews for Venues on FourSquare
+	5.16 Conclusions to Section 5
+6. Exploring Text Data For Preliminary Ideas
+	6.1 Explore Tweet Data
+	6.2 A Brief Explanation
+	6.3 EDA With Text Data
+	6.4 Examine Multiple Document Corpus of Text
+	6.5 Brief Introduction to tidytext
+	6.6 Text Exploration & Visualization with tidytext
+	6.7 Explore Multiple Texts with tidytext
+	6.8 Count Unique Words in Tweets
+	6.9 Visualizing Text Data as TF-IDF
+	6.10 TF-IDF in Graphical Form
+	6.11 Conclusions to Section 6
+7. Natural Language Processing: Sentiment Analysis
+	7.1 Wordclouds for Visualizing Tweet Sentiments: India's Demonetization Policy
+	7.2 Wordclouds for Visualizing Reviews
+	7.3 Tidy Wordclouds
+	7.4 Quanteda Wordcloud
+	7.5 Word Frequency in Text Data
+	7.6 Tweet Sentiments- Mugabe's Ouster
+	7.7 Tidy Sentiments- Sentiment Analysis Using tidytext
+	7.8 Examine the Polarity of Text
+	7.9 Examine the Polarity of Tweets
+	7.10 Topic Modelling a Document
+	7.11 Topic Modelling Multiple Documents
+	7.12 Topic Modelling Tweets Using Quanteda
+	7.13 Conclusions to Section 7
+8. Text Data and Machine Learning
+	8.1 Clustering for Text Data
+	8.2 Clustering Tweets with Quanteda
+	8.3 Regression on Text Data
+	8.4 Identify Spam Emails with Supervised Classification
+	8.5 Introduction to RTextTools
+	8.6 More on RTextTools
+	8.7 Classifying Textual Data
+	8.8 ML Approaches For Predicting a Binary Outcome in Text Data
+	8.9 ML Approaches For Predicting a Multi-Class Outcome in Text Data
+9. Network Analysis
+	9.1 A Small (Social) Network
+	9.2 A More Theoretical Explanation
+	9.3 Build & Visualize a Network
+	9.4 Network of Emails
+	9.5 More on Network Visualization
+	9.6 Analysis of Tweet Network
+	9.7 Identify Word Pair Networks
+	9.8 Network of Words
+	9.9 Text Analysis of Jane Austen's Mansfield Park
+	9.10 Github

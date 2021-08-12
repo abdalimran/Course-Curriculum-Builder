@@ -1,0 +1,60 @@
+1. Getting Started with NLTK (Natural Language Processing Toolkit)
+	1.1 Introduction to NLP
+	1.2 Course Technical Requirements
+	1.3 Installing and Setting Up NLTK
+	1.4 NLTK Accessing Texts
+	1.5 Basic Functions: concordance, similar, dispersion_plot, count
+	1.6 Summary: NLTK Basic Functions
+	1.7 Frequency Distribution with NLTK
+	1.8 Frequency Distribution on Your Text with NLTK
+2. Do you want to learn a specific NLP topic?
+	2.1 Do you want to learn a specific NLTK or NLP topic?
+3. Corpora
+	3.1 Accessing Corpora
+	3.2 Loading Your Own Corpus
+	3.3 Conditional Frequency Distribution
+	3.4 Lexical Resources Vocabulary
+	3.5 Terminology
+	3.6 NLP Basic Terminology
+4. Processing Raw Text with NLTK
+	4.1 NLP Pipeline
+	4.2 Tokenization
+	4.3 What is Token?
+	4.4 Regular Expressions
+	4.5 Applications of Regex
+	4.6 Stemming
+	4.7 Lemmatization
+	4.8 Regex for Tokenization
+5. Categorizing and Tagging Words with NLTK
+	5.1 Tagger
+	5.2 Tagged Corpus
+	5.3 The Default Tagger
+	5.4 Regexp Tagger
+	5.5 Unigram Tagger
+	5.6 Ngram Tagger
+	5.7 POS Tagging
+6. Sentiment Analysis: Text Classification Practical Projects
+	6.1 Machine Learning Overview
+	6.2 Logic Of Naive Bayes
+	6.3 Project #1: Gender Prediction Application - Part 1
+	6.4 Project #1: Gender Prediction Application - Part 2
+	6.5 Project #1: Gender Prediction Application - Part 3
+	6.6 Project #2: Document Classifier Application
+7. Extracting Info from Text
+	7.1 Information Extraction Architecture
+	7.2 Chunking Overiew
+	7.3 Chunking in Coding
+	7.4 Exercise: Named Entity Recognition
+	7.5 Chinking
+	7.6 Stanford NLP API
+	7.7 Chunking and Chinking
+8. NLP Course Concolusion
+	8.1 Conclusion
+9. Advanced NLTK Topics
+	9.1 Edit Distance Example
+	9.2 Edit Distance - Spelling Checker
+	9.3 Appendix: List of Correct Words for Spelling Checkers
+	9.4 Edit Distance - Plagiarism Checker / Translation Memory
+10. Bonus Material
+	10.1 More NLP Tutorials
+	10.2 What's Next for You?
